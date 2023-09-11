@@ -2,6 +2,9 @@
 
 Arrays are the most commonly used data structures in any programming language.
 
+An array which is a data structure is a feature of many programming language that lets
+you declare one variable but store multiple pieces of data inside of it, back-to-back.
+
 The index lookup for an array will be O(1), which is a constant time operation.
 
 Note that Big O complexity is often looking at worst-case analysis.

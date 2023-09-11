@@ -16,3 +16,5 @@ Measuring running time growth -> Time complexity
 Measuring space growth -> Space complexity
 
 Data structures and algorithms are very important, especially in programming interviews.
+
+Data structure is a way of organizing data inside your computer's memory.
