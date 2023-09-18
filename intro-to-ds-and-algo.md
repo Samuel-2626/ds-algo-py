@@ -18,3 +18,17 @@ Measuring space growth -> Space complexity
 Data structures and algorithms are very important, especially in programming interviews.
 
 Data structure is a way of organizing data inside your computer's memory.
+
+------
+
+On the order of (Big O) of n
+- O(n<sup>2</sup>)
+- O(n logn)
+- O(n)
+- O(log n)
+- O(1)
+
+Example:
+
+Worst case - O(n) #upper bound
+Best case - Ω(1) #lower bound
