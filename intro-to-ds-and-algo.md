@@ -30,5 +30,5 @@ On the order of (Big O) of n
 
 Example:
 
-Worst case - O(n) #upper bound
-Best case - Ω(1) #lower bound
+* Worst case - O(n) #upper bound
+* Best case - Ω(1) #lower bound
