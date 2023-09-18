@@ -9,17 +9,17 @@ A linked list on the other hand stores values at random memory locations, but th
 are linked by pointers. The first element will have a reference to the address of the 
 next element.
 
-Insert Element at beginning = O(1)
-Delete Element at beginning = O(1)
-Insert/Delete element at the end/middle = O(n)
+- Insert Element at beginning = O(1)
+- Delete Element at beginning = O(1)
+- Insert/Delete element at the end/middle = O(n)
 
 Linked list has two main benefits over an array:
 
 - You don't need to pre-allocate space
 - Insertion is easier
 
-Linked list travesal = O(n)
-Accessing element by value = O(n)
+- Linked list travesal = O(n)
+- Accessing element by value = O(n)
 
 Big O complexity for different operations on Array and Linked list
 
