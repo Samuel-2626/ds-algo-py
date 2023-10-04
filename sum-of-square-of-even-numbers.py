@@ -6,7 +6,7 @@ from functools import reduce
 
 
 def main() -> None:
-    print(sum_of_even_squares([1, 2, 3, 4, 5]))    
+    print(sum_of_even_squares([-1, 0, 1, 2, 3, 4]))    
 
 
 
